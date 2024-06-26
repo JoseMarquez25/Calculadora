@@ -9,9 +9,9 @@ do
     Console.WriteLine("2.Resta");
     Console.WriteLine("3.Multiplicación");
     Console.WriteLine("4.División");
-    Console.WriteLine("5.¨Potencia");
     Console.WriteLine("5.Salir");
-    Console.WriteLine("1.Ingrese una opción entre 1 y 4");
+    Console.WriteLine("5.Salir");
+    Console.WriteLine("1cd ...Ingrese una opción entre 1 y 4");
     string opcion = Console.ReadLine();
 
     int a = 0;
